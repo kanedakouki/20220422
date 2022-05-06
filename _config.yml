@@ -3,4 +3,4 @@ title: Jackのホームページ
 description: GitHub Pagesで作りました
 logo: /logo.png
 plugins:
-  - jekyll - sitemap
+  - jekyll-sitemap
